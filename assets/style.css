@@ -1,0 +1,13 @@
+
+body {
+    background-color: lightblue;
+}
+
+#planner{
+    background-color: grey;
+    padding: 60px
+}
+#plannerContainer {
+    margin-top: 10%;
+
+}
